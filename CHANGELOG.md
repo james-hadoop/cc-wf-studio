@@ -1,3 +1,14 @@
+## [3.22.1](https://github.com/breaking-brake/cc-wf-studio/compare/v3.22.0...v3.22.1) (2026-02-18)
+
+### Bug Fixes
+
+* escape Mermaid-special characters in node labels ([#579](https://github.com/breaking-brake/cc-wf-studio/issues/579)) ([fced314](https://github.com/breaking-brake/cc-wf-studio/commit/fced3148f997100269e42bbc5f7156c8afb3477d))
+* support HTTP transport for MCP tool nodes ([#581](https://github.com/breaking-brake/cc-wf-studio/issues/581)) ([cebcd21](https://github.com/breaking-brake/cc-wf-studio/commit/cebcd21a10fd0bd246e0d4b0db91e92c070eadd2))
+
+### Improvements
+
+* remove redundant validate_workflow MCP tool ([#580](https://github.com/breaking-brake/cc-wf-studio/issues/580)) ([8683434](https://github.com/breaking-brake/cc-wf-studio/commit/868343433b98d473c187d47dbbd06b7764bd02f6))
+
 ## [3.22.0](https://github.com/breaking-brake/cc-wf-studio/compare/v3.21.0...v3.22.0) (2026-02-16)
 
 ### Features

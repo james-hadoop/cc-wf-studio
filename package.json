@@ -2,7 +2,7 @@
   "name": "cc-wf-studio",
   "displayName": "CC Workflow Studio",
   "description": "Visual Workflow Editor for AI Agents",
-  "version": "3.22.0",
+  "version": "3.22.1",
   "publisher": "breaking-brake",
   "icon": "resources/icon.png",
   "repository": {
