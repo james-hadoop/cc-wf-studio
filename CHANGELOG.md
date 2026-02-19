@@ -1,3 +1,9 @@
+## [3.23.0](https://github.com/breaking-brake/cc-wf-studio/compare/v3.22.2...v3.23.0) (2026-02-19)
+
+### Features
+
+* add SubAgent compatibility checks and remove Beta labels ([#589](https://github.com/breaking-brake/cc-wf-studio/issues/589)) ([7abf087](https://github.com/breaking-brake/cc-wf-studio/commit/7abf0870a112227081a0de973a20079088764699))
+
 ## [3.22.2](https://github.com/breaking-brake/cc-wf-studio/compare/v3.22.1...v3.22.2) (2026-02-18)
 
 ### Improvements
